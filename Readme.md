@@ -21,7 +21,7 @@ run below commands.
 5- git push --set-upstream origin master
 
 
-After you amde some changes in your project, you need to push them in Github. 
+After you made some changes in your project, you need to push them in Github. 
 
 1- git add .
 
